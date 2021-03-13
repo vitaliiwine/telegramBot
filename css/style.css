@@ -1,0 +1,220 @@
+/* Base Styles --------------- */
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+button {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+li {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Globals --------------------- */
+
+.wrapper-general {
+    max-width: 1150px;
+    height: 5000px;
+    margin: auto;
+
+    position: relative;
+
+}
+
+.color-black {
+    color: #1c252b;
+}
+
+.color-gray {
+    color: #3a4d57;
+}
+
+.line-height-small {
+    line-height: 21px;
+}
+
+.line-height-medium {
+    line-height: 27px;
+}
+
+.line-height-large {
+    line-height: 70px;
+}
+
+.font-regular {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+}
+
+.font-large {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 60px;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+/* Navigation ------------------- */
+
+.main-header {
+    margin: 0;
+    padding: 20px 0;
+}
+
+.main-nav {
+    padding: 0;
+}
+
+.main-header,
+.main-nav,
+li {
+    display: inline-block;
+}
+
+li {
+    padding-right: 30px;
+}
+
+/* Text -------------------------- */
+
+.text-header-primary {
+    margin: 60px 0 25px;
+}
+
+.text-message-left-secondary,
+.text-message-right-secondary {
+    width: 440px;
+    background: #fff;
+    padding: 33px 43px;
+    box-shadow: 0 4px 16px rgba(63, 146, 209, 0.12);
+    border-radius: 47px;
+    margin: 0 67px;
+}
+
+.text-message-wrapper-left {
+    float: left;
+}
+
+.text-message-wrapper-right {
+    float: right;
+}
+
+.text-message-right-secondary {
+    margin-top: 140px;
+}
+
+/* Containers -------------------- */
+
+/* Primary */
+
+.wrapper-text-primary {
+    width: 45.5%;
+}
+
+/* Secondary */
+
+.container-secondary {
+    margin-top: 305px;
+}
+
+/* Images ------------------------*/
+
+/* Primary */
+
+.v-up-right-primary {
+    right: 0;
+}
+
+.lang-change {
+    top: -15px;
+}
+
+.v-center-primary {
+    top: 0;
+    right: -90px;
+}
+
+.v-phone-primary {
+    top: 40px;
+    right: 120px;
+}
+
+.v-chat-primary {
+    right: 0;
+    top: 170px;
+}
+
+.v-england {
+    top: 400px;
+    right: 470px;
+}
+
+.v-russia {
+    top: 310px;
+    right: 430px;
+}
+
+.try-tg {
+    margin-left: 65px;
+}
+
+/* Secondary */
+
+.bg-secondary {
+    /*width: 100%;*/
+    top: 570px;
+    left: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.circle-question-secondary {
+    top: -30px;
+    left: 45px;
+}
+
+.circle-screamer-secondary {
+    top: 110px;
+    left: 45px;
+    z-index: 1;
+}
+
+.v-paper-plane-secondary {
+    top: 100px;
+    right: 500px;
+    width: 200px;
+}
+
+.v-chat-secondary {
+    width: 130px;
+    top: 45px;
+    right: 480px;
+}
+
+/* Clear-fix */
+
+.clear-fix {
+    content: "";
+    display: table;
+    clear: both;
+}
