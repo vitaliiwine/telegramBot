@@ -42,22 +42,36 @@ li {
     color: #3a4d57;
 }
 
-.line-height-small {
+.line-height-tiny {
     line-height: 21px;
+}
+
+.line-height-small {
+    line-height: 25px;
 }
 
 .line-height-medium {
     line-height: 27px;
 }
 
+.line-height-big {
+    line-height: 47px;
+}
+
 .line-height-large {
     line-height: 70px;
+}
+
+.font-small {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
 }
 
 .font-regular {
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
+    font-size: 40px;
 }
 
 .font-large {
@@ -97,6 +111,8 @@ li {
 
 /* Text -------------------------- */
 
+/* Primary */
+
 .text-header-primary {
     margin: 60px 0 25px;
 }
@@ -119,8 +135,15 @@ li {
     float: right;
 }
 
+
 .text-message-right-secondary {
     margin-top: 140px;
+}
+
+/* Tertiary */
+
+.gap {
+    margin-bottom: 20px;
 }
 
 /* Containers -------------------- */
@@ -134,7 +157,24 @@ li {
 /* Secondary */
 
 .container-secondary {
-    margin-top: 305px;
+    margin-top: 275px;
+}
+
+/* Tertiary */
+
+.container-tertiary {
+    margin: 275px auto;
+}
+
+.wrapper-img-tertiary {
+    width: 46.5%;
+    float: left;
+}
+
+.wrapper-text-tertiary {
+    padding-top: 50px;
+    width: 46.5%;
+    float: right;
 }
 
 /* Images ------------------------*/
@@ -217,7 +257,7 @@ li {
 }
 
 .v-mug-secondary {
-    top: -70px;
+    top: -30px;
     right: -150px;
 }
 
