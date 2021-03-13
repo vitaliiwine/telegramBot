@@ -211,6 +211,26 @@ li {
     right: 480px;
 }
 
+.v-cloud-secondary {
+    top: -15px;
+    right: 80px;
+}
+
+.v-mug-secondary {
+    top: -70px;
+    right: -150px;
+}
+
+.v-ipad-secondary {
+    top: 230px;
+    left: 490px;
+}
+
+.v-bulb-secondary {
+    top: 180px;
+    left: -60px;
+}
+
 /* Clear-fix */
 
 .clear-fix {
