@@ -142,8 +142,42 @@ li {
 
 /* Tertiary */
 
+.wrapper-text-tertiary > .font-regular {
+    margin-bottom: 40px;
+}
+
 .gap {
-    margin-bottom: 20px;
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 5px;
+}
+
+/* Quaternary */
+
+.font-regular + .step-form {
+    margin-top: 70px;
+}
+
+.step-1 {
+    width: 561px;
+}
+
+.step-2 {
+    width: 464px;
+}
+
+.step-3 {
+    width: 293px;
+}
+
+.step-4 {
+    width: 504px;
+}
+
+.step-4 + .step-5 {
+    background: #3f92d1;
+    color: white;
+    width: 527px;
 }
 
 /* Containers -------------------- */
@@ -163,18 +197,37 @@ li {
 /* Tertiary */
 
 .container-tertiary {
-    margin: 275px auto;
+    margin: 235px auto;
 }
 
 .wrapper-img-tertiary {
-    width: 46.5%;
+    width: 45.5%;
     float: left;
 }
 
 .wrapper-text-tertiary {
     padding-top: 50px;
-    width: 46.5%;
+    width: 52.5%;
     float: right;
+}
+
+/* Quaternary */
+
+.wrapper-quaternary {
+    width: 55.5%;
+    float: left;
+}
+
+.wrapper-img-quaternary {
+    width: 40.5%;
+    float: right;
+}
+
+.step-form {
+    padding: 20px;
+    background: #fff;
+    box-shadow: 0 0 12px rgba(63, 146, 209, 0.29);
+    border-radius: 6px;
 }
 
 /* Images ------------------------*/
@@ -269,6 +322,18 @@ li {
 .v-bulb-secondary {
     top: 180px;
     left: -60px;
+}
+
+/* Tertiary */
+
+.check-mark {
+    vertical-align: middle;
+}
+
+/* Quaternary */
+
+.bg-quaternary {
+    top: 1770px
 }
 
 /* Clear-fix */
