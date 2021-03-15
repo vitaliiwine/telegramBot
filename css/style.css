@@ -62,10 +62,16 @@ li {
     line-height: 70px;
 }
 
-.font-small {
+.font-tiny {
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
+}
+
+.font-small {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
 }
 
 .font-regular {
@@ -176,8 +182,16 @@ li {
 
 .step-4 + .step-5 {
     background: #3f92d1;
+    font-size: 20px;
     color: white;
-    width: 527px;
+    width: 564px;
+}
+
+.step-5 + .font-small {
+    margin-top: 50px;
+    line-height: 30px;
+    text-align: right;
+    margin-right: -50px;
 }
 
 /* Containers -------------------- */
@@ -213,18 +227,19 @@ li {
 
 /* Quaternary */
 
-.wrapper-quaternary {
-    width: 55.5%;
+.wrapper-text-quaternary {
+    width: 46.5%;
     float: left;
+    margin-left: 46px;
 }
 
 .wrapper-img-quaternary {
-    width: 40.5%;
+    width: 46.5%;
     float: right;
 }
 
 .step-form {
-    padding: 20px;
+    padding: 15px 20px;
     background: #fff;
     box-shadow: 0 0 12px rgba(63, 146, 209, 0.29);
     border-radius: 6px;
@@ -334,6 +349,40 @@ li {
 
 .bg-quaternary {
     top: 1770px
+}
+
+.phone-quaternary {
+    padding-top: 60px;
+}
+
+.tag {
+    top: -15px;
+    left: -18px;
+}
+
+.rope-envelope {
+    top: 130px;
+    right: -330px;
+}
+
+.chat-messages {
+    top: 510px;
+    right: -280px;
+}
+
+.arrow {
+    bottom: 60px;
+    left: 575px;
+}
+
+.phone-small-quaternary {
+    bottom: 60px;
+    left: -180px;
+}
+
+.star {
+    top: 410px;
+    left: -230px;
 }
 
 /* Clear-fix */
