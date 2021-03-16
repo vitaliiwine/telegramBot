@@ -4,12 +4,6 @@
     <list default="true" id="0987f03f-d5dc-415c-bfb8-07ea5ce89bb3" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../eyelashExtension/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../eyelashExtension/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/TelegramBot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../toDoApp/.idea/codeStyles/Project.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../toDoApp/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../toDoApp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
@@ -66,25 +60,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="126" column="14" lean-forward="true" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+            <state relative-caret-position="432">
+              <caret line="142" column="42" lean-forward="true" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
               <folding>
-                <marker date="1615797127675" expanded="true" signature="528:602" ph="..." />
+                <marker date="1615880997814" expanded="true" signature="528:602" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="611">
-              <caret line="384" column="16" selection-start-line="384" selection-start-column="16" selection-end-line="384" selection-end-column="16" />
+            <state relative-caret-position="286">
+              <caret line="248" column="1" lean-forward="true" selection-start-line="248" selection-start-column="1" selection-end-line="248" selection-end-column="1" />
               <folding>
-                <marker date="1615797608821" expanded="true" signature="3602:3618" ph="..." />
+                <marker date="1615881275989" expanded="true" signature="3908:3924" ph="..." />
               </folding>
             </state>
           </provider>
@@ -112,7 +106,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="952" />
     <option name="width" value="977" />
     <option name="height" value="1038" />
@@ -171,14 +165,15 @@
       <workItem from="1615528405148" duration="16140000" />
       <workItem from="1615614204131" duration="18081000" />
       <workItem from="1615790103340" duration="8452000" />
+      <workItem from="1615874449665" duration="4256000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42673000" />
+    <option name="totallyTimeSpent" value="46929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="762" y="0" width="781" height="830" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.24966262" />
@@ -204,22 +199,22 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/style.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="611">
-          <caret line="384" column="16" selection-start-line="384" selection-start-column="16" selection-end-line="384" selection-end-column="16" />
+        <state relative-caret-position="432">
+          <caret line="142" column="42" lean-forward="true" selection-start-line="142" selection-start-column="42" selection-end-line="142" selection-end-column="42" />
           <folding>
-            <marker date="1615797608821" expanded="true" signature="3602:3618" ph="..." />
+            <marker date="1615880997814" expanded="true" signature="528:602" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="126" column="14" lean-forward="true" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+        <state relative-caret-position="286">
+          <caret line="248" column="1" lean-forward="true" selection-start-line="248" selection-start-column="1" selection-end-line="248" selection-end-column="1" />
           <folding>
-            <marker date="1615797127675" expanded="true" signature="528:602" ph="..." />
+            <marker date="1615881275989" expanded="true" signature="3908:3924" ph="..." />
           </folding>
         </state>
       </provider>

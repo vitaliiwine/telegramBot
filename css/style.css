@@ -194,6 +194,16 @@ li {
     margin-right: -50px;
 }
 
+.font-regular + .step-1 {
+    margin-top: 50px;
+}
+
+/* Quinary */
+
+.font-regular + .font-tiny {
+    margin-top: 50px;
+}
+
 /* Containers -------------------- */
 
 /* Primary */
@@ -243,6 +253,22 @@ li {
     background: #fff;
     box-shadow: 0 0 12px rgba(63, 146, 209, 0.29);
     border-radius: 6px;
+}
+
+/* Quinary */
+
+.container-quinary {
+    margin-top: 370px;
+}
+
+.wrapper-img-quinary {
+    width: 48.5%;
+    float: left;
+}
+
+.wrapper-text-quinary {
+    width: 46.5%;
+    float: right;
 }
 
 /* Images ------------------------*/
@@ -348,11 +374,12 @@ li {
 /* Quaternary */
 
 .bg-quaternary {
+    /*width: 100%;*/
     top: 1770px
 }
 
 .phone-quaternary {
-    padding-top: 60px;
+    padding-top: 90px;
 }
 
 .tag {
@@ -383,6 +410,12 @@ li {
 .star {
     top: 410px;
     left: -230px;
+}
+
+/* Quinary */
+
+.pencil-paper-quinary {
+    margin-left: 60px;
 }
 
 /* Clear-fix */
